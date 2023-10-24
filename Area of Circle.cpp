@@ -3,7 +3,7 @@ int main ()
 {
 	int r,a;
 	scanf("%d",&r);
-	a=3r*r;
+	a=3*r*r;
 	printf("%d",a);
 	return 0;
 }
