@@ -11,6 +11,6 @@ int main ()
 	scanf("%f",&t);
 	s=(p*r*t)/100;
 	c=p*pow(1+r/100,t)-p;
-	printf("The simple and compund interest is %f %f respectively",s,c);
+	printf("The simple and compund interest is %f and %f respectively",s,c);
 	return 0;
 }
